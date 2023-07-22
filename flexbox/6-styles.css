@@ -212,7 +212,7 @@
     float: right;
   }
 
-  .nav .nav-item {
+  .nav .nav-item + .nav-item {
     margin: var(--nav-item-margin);
   }
   
