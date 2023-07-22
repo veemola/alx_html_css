@@ -203,10 +203,6 @@
   /* Navbar
       ============================= */
   
-  .navbar-menu {
-    float: right;
-  }
-  
   .nav {
     margin: 0;
     padding: 0;
@@ -252,8 +248,8 @@
   
   /* Header
       ============================= */
-  .header .header-container {
-    display: flex
+  .header-container {
+    display: flex;
     justify-content: space-between;
   }    
   
